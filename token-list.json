@@ -1,0 +1,25 @@
+{
+  "name": "GBOXking",
+  "logoURI": "https://m.tsms.top/wp-content/uploads/2022/02/output-onlinepngtools.png",
+  "keywords": [
+      "defi",
+      "GBOXking",
+      "yield"
+    ],
+    "timestamp": "2022-02-23T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x905a104ea6ee9d84646fa1e35302f44646a48850",
+      "name": "GBOXking",
+      "symbol": "GBOXking",
+      "decimals": 18,
+      "logoURI": "https://m.tsms.top/wp-content/uploads/2022/02/output-onlinepngtools.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
